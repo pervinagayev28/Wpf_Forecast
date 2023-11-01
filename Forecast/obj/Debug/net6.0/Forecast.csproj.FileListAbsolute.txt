@@ -1,0 +1,17 @@
+C:\Users\user\OneDrive\Desktop\Forecast\Forecast\bin\Debug\net6.0\Forecast.exe
+C:\Users\user\OneDrive\Desktop\Forecast\Forecast\bin\Debug\net6.0\Forecast.deps.json
+C:\Users\user\OneDrive\Desktop\Forecast\Forecast\bin\Debug\net6.0\Forecast.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Forecast\Forecast\bin\Debug\net6.0\Forecast.dll
+C:\Users\user\OneDrive\Desktop\Forecast\Forecast\bin\Debug\net6.0\Forecast.pdb
+C:\Users\user\OneDrive\Desktop\Forecast\Forecast\obj\Debug\net6.0\Forecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Forecast\Forecast\obj\Debug\net6.0\Forecast.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Forecast\Forecast\obj\Debug\net6.0\Forecast.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Forecast\Forecast\obj\Debug\net6.0\Forecast.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Forecast\Forecast\obj\Debug\net6.0\Forecast.dll
+C:\Users\user\OneDrive\Desktop\Forecast\Forecast\obj\Debug\net6.0\refint\Forecast.dll
+C:\Users\user\OneDrive\Desktop\Forecast\Forecast\obj\Debug\net6.0\Forecast.pdb
+C:\Users\user\OneDrive\Desktop\Forecast\Forecast\obj\Debug\net6.0\Forecast.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Forecast\Forecast\obj\Debug\net6.0\ref\Forecast.dll
+C:\Users\user\OneDrive\Desktop\Forecast\Forecast\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Desktop\Forecast\Forecast\obj\Debug\net6.0\Forecast.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Forecast\Forecast\obj\Debug\net6.0\Forecast.csproj.CopyComplete
